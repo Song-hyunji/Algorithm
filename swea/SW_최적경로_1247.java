@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class SW_1247_최적경로 {
+public class SW_최적경로_1247 {
 
 	static int N, endX, endY, ans;
 	static int[][] map; //고객 집
